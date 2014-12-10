@@ -6,10 +6,6 @@ This gem is proof that Semaphore can manage releasing your gem
 
 There is no instalation process, this is just an exaple
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/bumpr/fork )
