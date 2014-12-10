@@ -1,6 +1,6 @@
 # Bumpr
 
-TODO: Write a gem description
+This gem is proof that Semaphore can manage releasing your gem
 
 ## Installation
 
