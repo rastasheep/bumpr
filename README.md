@@ -1,22 +1,10 @@
 # Bumpr
 
-TODO: Write a gem description
+This gem is proof that Semaphore can manage releasing your gem
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'bumpr'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bumpr
+There is no instalation process, this is just an exaple
 
 ## Usage
 
